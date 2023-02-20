@@ -1,24 +1,24 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
+<!-- saved from url=(0032)http://127.0.0.1:5500/index.html -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Docplanner Group</title>
-    <link rel="stylesheet" href="style.css">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
-</head>
-    <body>
+    <link rel="stylesheet" href="./Docplanner Group_files/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com/">
+<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin="">
+<link href="./Docplanner Group_files/css2" rel="stylesheet">
+<link type="text/css" rel="stylesheet" href="chrome-extension://dagdlcijhfbmgkjokkjicnnfimlebcll/style.css"><script type="text/javascript" charset="utf-8" src="chrome-extension://dagdlcijhfbmgkjokkjicnnfimlebcll/page_context.js"></script></head>
+    <body screen_capture_injected="true">
                                  <!-- navbar -->
         <div class="main-menu">
-            <img class="logo" src="./images/logo-default-group-en.svg" alt="Logo">
+            <img class="logo" src="./Docplanner Group_files/logo-default-group-en.svg" alt="Logo">
             <nav>
                 <ul>
-                    <li> <a href="#">About us</a></li>
-                    <li> <a href="#">Career</a></li>
-                    <li> <a href="#">Department</a></li>
+                    <li> <a href="http://127.0.0.1:5500/index.html#">About us</a></li>
+                    <li> <a href="http://127.0.0.1:5500/index.html#">Career</a></li>
+                    <li> <a href="http://127.0.0.1:5500/index.html#">Department</a></li>
                 </ul>
             </nav>
         </div>
@@ -27,10 +27,10 @@
 <section class="bodyy">
 
         <div class="banner">
-            <img class="icon" src="./images/sygnet@2x.png" alt="icon">
+            <img class="icon" src="./Docplanner Group_files/sygnet@2x.png" alt="icon">
             <h2>Making the healthcare experience more human</h2> 
             
-           <div class="text"> <P class="paragraph">We want patients to find the perfect doctor and book an appointment in the most easy way. The patient journey should be enjoyable, and that's why we are always next to them: to help them find the best possible care. Anytime, anywhere.</P>
+           <div class="text"> <p class="paragraph">We want patients to find the perfect doctor and book an appointment in the most easy way. The patient journey should be enjoyable, and that's why we are always next to them: to help them find the best possible care. Anytime, anywhere.</p>
 
             <p class="paragraph">We also help doctors to better manage their practice and build their online reputation. With our integrated end-to-end solution, doctors are able not only to improve their online presence, but also to devote their time to what really matters: their patients.</p>
             </div>
@@ -42,7 +42,7 @@
 
 <section class="container">
     <div class="square-1">
-            <img src="./images/icon-patients.svg" alt="">
+            <img src="./Docplanner Group_files/icon-patients.svg" alt="">
             <h1 class="title-box">For patients</h1>
             <p class="text-box">Find a doctor, book a visit and solve any health-related doubt</p>
             <select name="country" id="country">
@@ -65,7 +65,7 @@
         
     
     <div class="square-2">
-        <img src="./images/icon-doctors.svg" alt="">
+        <img src="./Docplanner Group_files/icon-doctors.svg" alt="">
         <h1 class="title-box">For doctors</h1>
         <p class="text-box">Save time managing visits and cut no-shows by half</p>
         <select name="country" id="country">
@@ -87,7 +87,7 @@
 </div>
     
     <div class="square-3">
-        <img src="./images/icon-clinics.svg" alt="">
+        <img src="./Docplanner Group_files/icon-clinics.svg" alt="">
         <h1 class="title-box">For clinics</h1>
         <p class="text-box">Deliver an exceptional patient experience in your clinic</p>
         <select name="country" id="country">
@@ -136,15 +136,15 @@
                             <path d="M186.445 10.684h3l.244 2.445h.03c.768-1.12 2.635-2.555 4.81-2.674v3.19c-3.17.617-4.622 2.718-4.622 4.623v7.596h-3.463V10.684zm-13.416-.294c1.504-.124 3.136-.162 4.713-.162 3.713 0 5.928 1.436 5.928 5.492v10.146h-3.11l-.153-1.52h-.04c-1.068 1.15-2.62 1.823-4.606 1.823-2.63 0-4.72-1.705-4.72-5.08 0-3.14 2.617-6.066 9.17-4.676V15.5c0-1.81-1.06-2.315-3.15-2.315-1.283 0-2.37.087-4.026.23V10.39h-.005zm7.178 8.427c-2.776-.705-5.554.162-5.554 2.31 0 1.423.945 2.26 2.353 2.196 1.11-.05 2.333-.543 3.2-1.31v-3.196zm-18.896 1.57v5.48h-3.463V5.012l3.462-.4v12.116c1.918-1.628 3.74-3.757 5.027-6.042h3.675c-1.29 2.504-2.828 4.664-4.713 6.51l5.12 8.673h-3.896l-3.8-6.444c-.472.376-.975.69-1.415.97v-.005zm-19.414-2.066v-.06c0-4.67 2.27-8.032 6.973-8.032 4.36 0 6.386 2.52 6.386 7.814 0 .56-.04 1.334-.1 1.904h-9.62c.248 2.137 1.493 3.416 4.052 3.416 1.62 0 3.14-.152 4.55-.337v2.9c-1.583.248-2.928.396-4.64.396-4.98 0-7.596-2.49-7.596-8h-.004zm3.58-.956h6.257c0-2.375-.623-4.25-2.957-4.25-2.43 0-3.238 2-3.3 4.25zM129.815 4.61h3.785v17.818h7.445v3.438h-11.23V4.61zm-15.412 6.074h3.662c.596 2.88 2.16 8.483 3.006 11.3h.066c.814-2.848 2.38-8.45 3.006-11.3h3.63c-1.126 4.32-3.87 12.68-4.944 15.183-1.076 2.51-2.626 6.75-8.327 5.987v-2.728c2.64.15 4.043-.842 4.91-2.805-1.342-3.172-3.91-11.316-5.004-15.637h-.004zm-11.5 2.014c1.01-1.354 2.734-2.47 4.826-2.47 3.453 0 4.902 1.966 4.902 5.774v9.863h-3.46v-9.15c0-2.465-.717-3.41-2.514-3.3-1.747.11-3.2 1.87-3.2 4.47v7.984h-3.462v-9.15c0-2.468-.71-3.44-2.513-3.304-1.747.13-3.2 2.05-3.2 4.47v7.983h-3.46V10.685h3.014s.14 1.507.2 2.05h.04c.838-1.31 2.31-2.506 4.484-2.506 2.25 0 3.65.835 4.35 2.47l-.006-.002zm-25.6-2.31c1.505-.122 3.137-.16 4.713-.16 3.713 0 5.928 1.436 5.928 5.49v10.148H84.83l-.16-1.518h-.04c-1.067 1.15-2.62 1.822-4.605 1.822-2.633 0-4.723-1.704-4.723-5.08 0-3.14 2.62-6.064 9.172-4.674v-.912c0-1.81-1.06-2.315-3.15-2.315-1.284 0-2.37.088-4.027.23v-3.026l.006-.005zm7.178 8.43c-2.777-.706-5.555.16-5.555 2.308 0 1.424.945 2.26 2.354 2.197 1.11-.05 2.33-.543 3.2-1.31v-3.196.002zm-24.736-8.134h3.015s.134 1.507.2 2.05H63c.836-1.31 2.59-2.506 4.71-2.506 3.58 0 5.357 1.907 5.357 5.775v9.863h-3.463v-9.15c0-2.465-.95-3.432-2.818-3.3-1.692.12-3.578 2.05-3.578 4.47v7.984h-3.464V10.684zM43.07 4.61h13.657v2.87l-9.43 14.948h9.587v3.438H42.512v-2.93L51.965 8.05H43.07V4.61zM17.684 24.598c.767-1.882 2.927-4.515 5.13-5.874l4.875 8.07-4.998 3.628-5.01-5.824h.002zm-7.203 5.815L3.61 25.99C8.814 16.26 18.54 9.33 29.973 8.04l1.915 5.898c-9.428 1.858-17.29 8.078-21.407 16.475zm1.5-20.027l.87-10.33h6.175l.785 9.342c-3.544 1.217-5.628 2.186-8.016 3.654a25.36 25.36 0 0 0-4.8 3.797L0 13.895l1.906-5.882 10.075 2.372z"></path>
                         </svg>
                         
-                        <img class="logoIcon" src="./images/logo-jameda.svg" width="167" height="32">
+                        <img class="logoIcon" src="./Docplanner Group_files/logo-jameda.svg" width="167" height="32">
                     
-                        <img class="logoIcon" src="./images/logo-tuotempo.svg">
+                        <img class="logoIcon" src="./Docplanner Group_files/logo-tuotempo.svg">
                         
-                        <img class="logoIcon" src="./images/logo-gipo-primary.svg">
+                        <img class="logoIcon" src="./Docplanner Group_files/logo-gipo-primary.svg">
 
-                        <img class="logoIcon" src="./images/logo-clinicloud.svg">
+                        <img class="logoIcon" src="./Docplanner Group_files/logo-clinicloud.svg">
                        
-                        <img class="logoIcon"src="./images/logo-feegow.svg">
+                        <img class="logoIcon" src="./Docplanner Group_files/logo-feegow.svg">
                     
                     </div>
 
@@ -160,27 +160,27 @@
             <h2 class="title-box-1">The world's biggest <br>
             healthcare platform</h2>
             <p class="par-box-1">We work from 9 offices all over the world, bringing Docplanner Group to life in 13 countries.</p>
-            <img class="nejma" src="./images/logo.png" alt="">
+            <img class="nejma" src="./Docplanner Group_files/logo.png" alt="">
     </div>
 
     <div class="box-2">
             <div class="sub-box">
-                <img class="icon-sub-box" src="./images/flag@2x.png" alt="">
+                <img class="icon-sub-box" src="./Docplanner Group_files/flag@2x.png" alt="">
                 <h3 class="title-sub-box">Leader in 13 countries</h3>
                 <p class="par-sub-box">Poland, Brazil, Mexico, Spain, Italy, Germany, Turkey, Colombia, Czech Republic, Portugal, Argentina, Peru and Chile</p>
             </div>
             <div class="sub-box">
-                <img class="icon-sub-box"src="./images/visits@2x.png" alt="">
+                <img class="icon-sub-box" src="./Docplanner Group_files/visits@2x.png" alt="">
                 <h3 class="title-sub-box">15,000,000 appointments</h3>
                 <p class="par-sub-box">booked last month</p>
             </div>
             <div class="sub-box">
-                <img class="icon-sub-box"src="./images/patients@2x.png" alt="">
+                <img class="icon-sub-box" src="./Docplanner Group_files/patients@2x.png" alt="">
                 <h3 class="title-sub-box">90,000,000 <br> patients</h3>
                 <p class="par-sub-box">visit our websites each month</p>
             </div>
             <div class="sub-box">
-                <img class="icon-sub-box"src="./images/doctors@2x.png" alt="">
+                <img class="icon-sub-box" src="./Docplanner Group_files/doctors@2x.png" alt="">
                 <h3 class="title-sub-box">210,000<br>
                     active doctors</h3>
                 <p class="par-sub-box">vtrust our solutions</p>
@@ -206,7 +206,7 @@
 
 <section class="container-5">
     <div class="visit">
-        <img src="./images/warsaw@2x.png" alt="">
+        <img src="./Docplanner Group_files/warsaw@2x.png" alt="">
         <div class="white-box">
         <h4>Warsaw</h4>
         <button>SEE OPENINGS</button>
@@ -215,7 +215,7 @@
 
 
     <div class="visit">
-        <img src="./images/barcelona@2x.png" alt="">
+        <img src="./Docplanner Group_files/barcelona@2x.png" alt="">
         <div class="white-box">
         <h4>Barcelona</h4>
         <button>SEE OPENINGS</button>
@@ -223,7 +223,7 @@
     </div>
 
     <div class="visit">
-        <img src="./images/munich@2x.png" alt="">
+        <img src="./Docplanner Group_files/munich@2x.png" alt="">
         <div class="white-box">
         <h4>Munich</h4>
         <button>SEE OPENINGS</button>
@@ -231,7 +231,7 @@
     </div>
 
     <div class="visit">
-        <img src="./images/istanbul@2x.png" alt="">
+        <img src="./Docplanner Group_files/istanbul@2x.png" alt="">
         <div class="white-box">
         <h4>Istanbul</h4>
         <button>SEE OPENINGS</button>
@@ -241,7 +241,7 @@
 
 
     <div class="visit">
-        <img src="./images/rome@2x.png" alt="">
+        <img src="./Docplanner Group_files/rome@2x.png" alt="">
         <div class="white-box">
         <h4>Rome</h4>
         <button>SEE OPENINGS</button>
@@ -250,7 +250,7 @@
 
 
     <div class="visit">
-        <img src="./images/bologna@2x.png" alt="">
+        <img src="./Docplanner Group_files/bologna@2x.png" alt="">
         <div class="white-box">
         <h4>Bologna</h4>
         <button>SEE OPENINGS</button>
@@ -259,7 +259,7 @@
 
 
     <div class="visit">
-        <img src="./images/curitiba@2x.png" alt="">
+        <img src="./Docplanner Group_files/curitiba@2x.png" alt="">
         <div class="white-box">
         <h4>Curitiba</h4>
         <button>SEE OPENINGS</button>
@@ -269,7 +269,7 @@
 
 
     <div class="visit">
-        <img src="./images/rio-janeiro@2x.png" alt="">
+        <img src="./Docplanner Group_files/rio-janeiro@2x.png" alt="">
         <div class="white-box">
         <h4>Rio De Janeiro</h4>
         <button>SEE OPENINGS</button>
@@ -279,7 +279,7 @@
 
 
     <div class="visit">
-        <img src="./images/mexico-city@2x.png" alt="">
+        <img src="./Docplanner Group_files/mexico-city@2x.png" alt="">
         <div class="white-box">
         <h4>Mexico City</h4>
         <button>SEE OPENINGS</button>
@@ -297,10 +297,48 @@
 </section>
 
 <footer>
-    <p>We are leaders in 13 countries: <a class="ftr" href="#">Poland</a>, <a href="#">Turkey</a>, <a href="#">Spain</a>, <a href="#">Italy</a>, <a href="#">Germany</a>, <a href="#">Czech Republic </a>, <a href="#">Portugal</a>,<a href="#"> Mexico</a>, <a href="#">Colombia </a>, <a href="#">Brazil</a>, <a href="#">Argentina</a>, <a href="#">Peru</a> and <a href="#">Chile </a></p>
+    <p>We are leaders in 13 countries: <a class="ftr" href="http://127.0.0.1:5500/index.html#">Poland</a>, <a href="http://127.0.0.1:5500/index.html#">Turkey</a>, <a href="http://127.0.0.1:5500/index.html#">Spain</a>, <a href="http://127.0.0.1:5500/index.html#">Italy</a>, <a href="http://127.0.0.1:5500/index.html#">Germany</a>, <a href="http://127.0.0.1:5500/index.html#">Czech Republic </a>, <a href="http://127.0.0.1:5500/index.html#">Portugal</a>,<a href="http://127.0.0.1:5500/index.html#"> Mexico</a>, <a href="http://127.0.0.1:5500/index.html#">Colombia </a>, <a href="http://127.0.0.1:5500/index.html#">Brazil</a>, <a href="http://127.0.0.1:5500/index.html#">Argentina</a>, <a href="http://127.0.0.1:5500/index.html#">Peru</a> and <a href="http://127.0.0.1:5500/index.html#">Chile </a></p>
     <p>This site uses cookies to deliver services in accordance with this Privacy Policy. You can specify the conditions for storing or accessing cookies on your browser. <br>
 
         www.docplanner.com © 2023</p>
 </footer>
-</body>
-</html>
+<!-- Code injected by live-server -->
+<script>
+	// <![CDATA[  <-- For SVG support
+	if ('WebSocket' in window) {
+		(function () {
+			function refreshCSS() {
+				var sheets = [].slice.call(document.getElementsByTagName("link"));
+				var head = document.getElementsByTagName("head")[0];
+				for (var i = 0; i < sheets.length; ++i) {
+					var elem = sheets[i];
+					var parent = elem.parentElement || head;
+					parent.removeChild(elem);
+					var rel = elem.rel;
+					if (elem.href && typeof rel != "string" || rel.length == 0 || rel.toLowerCase() == "stylesheet") {
+						var url = elem.href.replace(/(&|\?)_cacheOverride=\d+/, '');
+						elem.href = url + (url.indexOf('?') >= 0 ? '&' : '?') + '_cacheOverride=' + (new Date().valueOf());
+					}
+					parent.appendChild(elem);
+				}
+			}
+			var protocol = window.location.protocol === 'http:' ? 'ws://' : 'wss://';
+			var address = protocol + window.location.host + window.location.pathname + '/ws';
+			var socket = new WebSocket(address);
+			socket.onmessage = function (msg) {
+				if (msg.data == 'reload') window.location.reload();
+				else if (msg.data == 'refreshcss') refreshCSS();
+			};
+			if (sessionStorage && !sessionStorage.getItem('IsThisFirstTime_Log_From_LiveServer')) {
+				console.log('Live reload enabled.');
+				sessionStorage.setItem('IsThisFirstTime_Log_From_LiveServer', true);
+			}
+		})();
+	}
+	else {
+		console.error('Upgrade your browser. This Browser is NOT supported WebSocket for Live-Reloading.');
+	}
+	// ]]>
+</script>
+
+</body></html>
